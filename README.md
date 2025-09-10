@@ -98,5 +98,5 @@ Contributions are welcome!
 - Add new quotes or features  
 - Create a pull request  
 
----
+--- 
 
