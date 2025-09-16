@@ -9,7 +9,7 @@ Includes **daily notifications**, mood-based categories, Tamil language support,
 
 - 🎭 **Mood Selection**: Choose how you feel (Happy, Sad, Stressed, Excited, Lonely, Lost, Confident).
 - 💬 **Motivational Quotes**: Get 100+ quotes covering success, life, positivity, confidence, and healing.
-- 🗣️ **Tamil Language Support**: Switch between **English / தமிழ்** for quotes. 
+- 🗣️ **Tamil Language Support**: Switch between **English / தமிழ்** for quotes.
 - 🔖 **Action Tips**: Along with each quote, get a small **practical tip** (e.g., "Take a 5-min walk", "Write down your goal"). 
 - ✨ **Daily Quote Notification**: Every morning at 9AM, receive a fresh motivational quote. 
 - ❤️ **Save & Share**: Mark favorites, share quotes on WhatsApp/Instagram/LinkedIn.  
