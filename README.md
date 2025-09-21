@@ -15,7 +15,7 @@ Includes **daily notifications**, mood-based categories, Tamil language support,
 - ❤️ **Save & Share**: Mark favorites, share quotes on WhatsApp/Instagram/LinkedIn.  
 - 📥 **Download**: Export your favorite quotes as images or posters.  
 - 🎨 **Attractive UI**: Sticky-note style cards, mood-based gradient backgrounds, animations.
-- 🌓 **Dark/Light Mode**: Switch themes easily for comfort.  
+- 🌓 **Dark/Light Mode**: Switch themes easily for comfort. 
 
 ---
 
