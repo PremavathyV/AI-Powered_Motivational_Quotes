@@ -7,7 +7,6 @@ Includes **daily notifications**, mood-based categories, Tamil language support,
 
 ## 🚀 Features
 
-
 - 🎭 **Mood Selection**: Choose how you feel (Happy, Sad, Stressed, Excited, Lonely, Lost, Confident).
 - 💬 **Motivational Quotes**: Get 100+ quotes covering success, life, positivity, confidence, and healing
 - 🗣️ **Tamil Language Support**: Switch between **English / தமிழ்** for quotes.
