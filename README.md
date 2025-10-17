@@ -1,5 +1,6 @@
 # 🌟 AI-Powered Motivational Quote Generator
 
+
 An interactive and user-friendly web app that generates **daily motivational quotes** based on the user's mood. 
 Includes **daily notifications**, mood-based categories, Tamil language support, and extra features like action tips, saving, sharing, and downloading quotes.
 ---
