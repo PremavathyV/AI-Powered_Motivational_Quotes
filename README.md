@@ -6,6 +6,7 @@ An interactive and user-friendly web app that generates **daily motivational quo
 Includes **daily notifications**, mood-based categories, Tamil language support, and extra features like action tips, saving, sharing, and downloading quotes.
 ---
 
+
 ## 🚀 Features
 
 - 🎭 **Mood Selection**: Choose how you feel (Happy, Sad, Stressed, Excited, Lonely, Lost, Confident).
